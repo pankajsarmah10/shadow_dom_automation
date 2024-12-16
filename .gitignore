@@ -1,0 +1,23 @@
+# Node.js (for both js-cypress and js-playwright)
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Python (for py-selenium)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.swp
+*.bak
+*.log
+
+# VS Code specific
+.vscode/
+
+# Mac OS specific
+.DS_Store
+
+# Other common files
+*.log
